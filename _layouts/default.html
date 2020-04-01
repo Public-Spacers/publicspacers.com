@@ -8,7 +8,12 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
+        gtag('config', '{{ site.google_analytics }}', { 
+          // Disabled ip tracking
+          anonymizeIp: true,
+          // Disable any default-enabled Advertising features (turn them on later when we get consent)
+          allowAdFeatures: false,
+        });
       </script>
     {% endif %}
     <meta charset="UTF-8">
