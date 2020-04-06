@@ -28,6 +28,20 @@ title: Public Spacers
 </div>
 </div>
 
+## Team
+<div class="team-group">
+    <a href="https://www.linkedin.com/in/martin-huber-b940a084/"><img src="/assets/img/martin.jpeg" /><div>Martin Huber<small>Team Leader</small></div></a>
+    <a href="https://www.linkedin.com/in/laura-osterloh-73a73190/"><img src="/assets/img/laura.jpeg" /><div>Laura Osterloh</div></a>
+    <a href="https://www.linkedin.com/in/victoria-osterloh-4a6ba4150/"><img src="/assets/img/victoria.jpeg" /><div>Victoria Osterloh</div></a>
+    <a href="https://www.linkedin.com/in/georg-schelkshorn-632655ba/"><img src="/assets/img/georg.jpeg" /><div>Georg Schelkshorn</div></a>
+    <a href="https://www.linkedin.com/in/claudia-falkinger/"><img src="/assets/img/claudia.jpeg" /><div>Claudia Falkinger<small>Team Mentor, ÖBB</small></div></a>
+</div>
+Follow us on <a href="https://www.instagram.com/public_spacers/" class="instagram-btn">instagram<svg style="width:24px;height:24px" viewBox="0 0 24 24">
+    <path fill="currentColor" d="M7.8,2H16.2C19.4,2 22,4.6 22,7.8V16.2A5.8,5.8 0 0,1 16.2,22H7.8C4.6,22 2,19.4 2,16.2V7.8A5.8,5.8 0 0,1 7.8,2M7.6,4A3.6,3.6 0 0,0 4,7.6V16.4C4,18.39 5.61,20 7.6,20H16.4A3.6,3.6 0 0,0 20,16.4V7.6C20,5.61 18.39,4 16.4,4H7.6M17.25,5.5A1.25,1.25 0 0,1 18.5,6.75A1.25,1.25 0 0,1 17.25,8A1.25,1.25 0 0,1 16,6.75A1.25,1.25 0 0,1 17.25,5.5M12,7A5,5 0 0,1 17,12A5,5 0 0,1 12,17A5,5 0 0,1 7,12A5,5 0 0,1 12,7M12,9A3,3 0 0,0 9,12A3,3 0 0,0 12,15A3,3 0 0,0 15,12A3,3 0 0,0 12,9Z" />
+</svg></a> for updates.
+
+You are interessted in developing this idea further and would like to join? <a href="mailto:publicspacers@gmail.com">Send us an email!</a>
+
 ## News
 - Futurezone (1.4.2020): [Hacks gegen die Corona-Krise: Algorithmus schafft Platz in Öffis](https://futurezone.at/start-ups/hacks-gegen-die-corona-krise-algorithmus-schafft-platz-in-oeffis/400799729)
 - Techno-Z Blog (1.4.2020): [Hack the Crisis-Hackathon: Martin Huber im Siegerteam](https://blog.techno-z.at/hack-the-crisis-hackathon-martin-huber-im-siegerteam/)
@@ -49,5 +63,52 @@ title: Public Spacers
         display: block;
         width: 36px;
         height: 36px;
+    }
+
+    .team-group {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .team-group > a {
+        display: block;
+        text-align: center;
+        padding: 20px 10px;
+        width: 200px;
+    }
+
+    .team-group img {
+        border-radius: 100%;
+        width: 160px;
+        transition: all .2s ease-in-out;
+        box-shadow: 0 2px 10px rgba(0,0,0,.2);
+    }
+
+    .team-group > a:hover > img {
+        box-shadow: 0 5px 15px rgba(0,0,0,.4);
+    }
+
+    .team-group small {
+        display: block;
+    }
+
+    .instagram-btn {
+        background: #159957;
+        border-radius: 4px;
+        padding: 5px 10px;
+        color: #fff;
+    }
+
+
+    .instagram-btn:hover {
+        cursor: pointer;
+    }
+
+    .instagram-btn svg {
+        position: relative;
+        margin-left: 5px;
+        top: 5px;
     }
 </style>
