@@ -43,6 +43,7 @@ Follow us on <a href="https://www.instagram.com/public_spacers/" class="instagra
 You are interessted in developing this idea further and would like to join? <a href="mailto:publicspacers@gmail.com">Send us an email!</a>
 
 ## News
+- Der Brutkasten (6.4.2020): [Mentorship: Wie man es im Tandem zum (Hackathon-)Erfolg schafft](https://www.derbrutkasten.com/mentorship-tipps/)
 - Futurezone (1.4.2020): [Hacks gegen die Corona-Krise: Algorithmus schafft Platz in Öffis](https://futurezone.at/start-ups/hacks-gegen-die-corona-krise-algorithmus-schafft-platz-in-oeffis/400799729)
 - Techno-Z Blog (1.4.2020): [Hack the Crisis-Hackathon: Martin Huber im Siegerteam](https://blog.techno-z.at/hack-the-crisis-hackathon-martin-huber-im-siegerteam/)
 - Trending Topics (1.4.2020): [Hack the Crisis: Team Public Spacers hat den Hackathon gewonnen](https://www.trendingtopics.at/hack-the-crisis-oesterreich-gewinner/)
