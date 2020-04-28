@@ -1,6 +1,12 @@
 ---
 title: Public Spacers
 ---
+
+## EUvsVirus Pitch Video Submission
+<div style="text-align: center;">
+<iframe style="box-shadow: 0 2px 10px rgba(0,0,0,.1);" width="100%" height="480" src="https://www.youtube.com/embed/jRsN_6vXSKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Hack The Crisis AT Pitch Video Submission
 <div style="text-align: center;">
 <iframe style="box-shadow: 0 2px 10px rgba(0,0,0,.1);" width="100%" height="480" src="https://www.youtube-nocookie.com/embed/xD4GMZfHrt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -43,6 +49,8 @@ Follow us on <a href="https://www.instagram.com/public_spacers/" class="instagra
 You are interessted in developing this idea further and would like to join? <a href="mailto:publicspacers@gmail.com">Send us an email!</a>
 
 ## News
+- Forbes (16.4.2020): [The Hackathon Approach To COVID-19 Showcases Agile Innovation At Its Best](https://www.forbes.com/sites/tomokoyokoi/2020/04/16/the-hackathon-approach-to-covid-19-showcases-agile-innovation-at-its-best/)
+- MeinBezirk.at (14.4.2020): [In Öffis nicht auf die Zehen steigen](https://www.meinbezirk.at/pongau/c-wirtschaft/in-oeffis-nicht-auf-die-zehen-steigen_a4019982)
 - Der Brutkasten (6.4.2020): [Mentorship: Wie man es im Tandem zum (Hackathon-)Erfolg schafft](https://www.derbrutkasten.com/mentorship-tipps/)
 - Futurezone (1.4.2020): [Hacks gegen die Corona-Krise: Algorithmus schafft Platz in Öffis](https://futurezone.at/start-ups/hacks-gegen-die-corona-krise-algorithmus-schafft-platz-in-oeffis/400799729)
 - Techno-Z Blog (1.4.2020): [Hack the Crisis-Hackathon: Martin Huber im Siegerteam](https://blog.techno-z.at/hack-the-crisis-hackathon-martin-huber-im-siegerteam/)
@@ -95,7 +103,8 @@ You are interessted in developing this idea further and would like to join? <a h
         display: block;
     }
 
-    .instagram-btn {
+    .instagram-btn,
+    .header-btn {
         background: #159957;
         border-radius: 4px;
         padding: 5px 10px;
@@ -103,7 +112,8 @@ You are interessted in developing this idea further and would like to join? <a h
     }
 
 
-    .instagram-btn:hover {
+    .instagram-btn:hover,
+    .header-btn:hover {
         cursor: pointer;
     }
 
@@ -111,5 +121,12 @@ You are interessted in developing this idea further and would like to join? <a h
         position: relative;
         margin-left: 5px;
         top: 5px;
+    }
+
+    .header-btn {
+        font-size: 1.5em;
+        background: #155799;
+        padding: 10px 20px;
+        margin: 5px;
     }
 </style>
