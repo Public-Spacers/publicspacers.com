@@ -49,8 +49,8 @@ Follow us on <a href="https://www.instagram.com/public_spacers/" class="instagra
 You are interessted in developing this idea further and would like to join? <a href="mailto:publicspacers@gmail.com">Send us an email!</a>
 
 ## News
-- Nahverkehrspraxis (27.4.2020): [Team “Public Spacers” gewinnt “Hack the Crisis Austria”-Hackathon](https://www.nahverkehrspraxis.de/team-public-spacers-gewinnt-hack-the-crisis-austria-hackathon/)
-- Forbes (16.4.2020): [The Hackathon Approach To COVID-19 Showcases Agile Innovation At Its Best](https://www.forbes.com/sites/tomokoyokoi/2020/04/16/the-hackathon-approach-to-covid-19-showcases-agile-innovation-at-its-best/)
+- Nahverkehrspraxis (27.4.2020):<br/>[Team “Public Spacers” gewinnt “Hack the Crisis Austria”-Hackathon](https://www.nahverkehrspraxis.de/team-public-spacers-gewinnt-hack-the-crisis-austria-hackathon/)
+- Forbes (16.4.2020):<br/>[The Hackathon Approach To COVID-19 Showcases Agile Innovation At Its Best](https://www.forbes.com/sites/tomokoyokoi/2020/04/16/the-hackathon-approach-to-covid-19-showcases-agile-innovation-at-its-best/)
 - MeinBezirk.at (14.4.2020): [In Öffis nicht auf die Zehen steigen](https://www.meinbezirk.at/pongau/c-wirtschaft/in-oeffis-nicht-auf-die-zehen-steigen_a4019982)
 - Der Brutkasten (6.4.2020): [Mentorship: Wie man es im Tandem zum (Hackathon-)Erfolg schafft](https://www.derbrutkasten.com/mentorship-tipps/)
 - Futurezone (1.4.2020): [Hacks gegen die Corona-Krise: Algorithmus schafft Platz in Öffis](https://futurezone.at/start-ups/hacks-gegen-die-corona-krise-algorithmus-schafft-platz-in-oeffis/400799729)
